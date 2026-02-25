@@ -679,3 +679,4 @@ override_whitelisted_methods = {
 # auth_hooks = [
 # 	"india_compliance.auth.validate"
 # ]
+frappe_version = ">=15.0.0,<17.0.0"
